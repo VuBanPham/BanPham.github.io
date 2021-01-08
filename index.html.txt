@@ -1,0 +1,12 @@
+Finally: an open source, standardized privacy policy for you to use and customize. Provided by experts and hosted on Docracy, this standard privacy policy provides a good starting point for many common app types. Branch the document as you would on GitHub to customize, improve, or both! Then simply link to your policy when you submit your apps. Select the best starting point from these open source options:
+
+When Using Geolocation
+
+When Showing Ads
+
+Just the Basics
+(Like Analytics)
+
+App Developers: Having a privacy policy for your mobile app will soon become a requirement. Major app stores are now required to inform users of app privacy policies. Docracy can provide a good starting point, and host your actual policy. Just pick one of the above options, branch and customize it, then link to the mobile URL in the app store. As you update your policy on Docracy, your users will always see the latest version.
+
+Lawyers and Experts: You are encouraged to branch this policy into other, improved versions. Privacy's legal framework is changing fast, and your help is needed to keep this model up to date with best practices. We look forward to improving this Privacy Policy with the collective knowledge and constructive criticism of the tech community.
